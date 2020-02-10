@@ -4,3 +4,5 @@ diceArray = ["dice1","dice2","dice3","dice4","dice5","dice6"]. and i have a butt
         randomDiceIndex2 = Int(arc4random_uniform(6))
         diceImageView1.image = UIImage(named:diceArray[randomDiceIndex1])
         diceImageView2.image = UIImage(named: diceArray[
+
+<img src="https://github.com/Abdu11a/Dicee/blob/master/dicee.png" width=400>
